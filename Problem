@@ -1,4 +1,8 @@
 # Euler Problem #6
+#Tori Gregory
+#3/8/26
+#Lab 7
+#difference between sum of squares and square of sums of the first natural 100 numbers
 
 from NumberTests import sumofsquares
 from NumberTests import squareofsums

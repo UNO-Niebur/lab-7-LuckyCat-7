@@ -1,4 +1,8 @@
 # Euler problem 7
+#Tori Gregory
+#3/8/26
+#Lab 7
+#finds the 10001st prime number
 import NumberTests
 def main():
     NumList = []
