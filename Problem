@@ -1,0 +1,10 @@
+# Euler Problem #6
+
+from NumberTests import sumofsquares
+from NumberTests import squareofsums
+
+
+def main():
+   n = sumofsquares(100) - squareofsums(100)
+   print(n)
+main()

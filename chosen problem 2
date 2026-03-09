@@ -1,0 +1,11 @@
+# Euler problem 7
+import NumberTests
+def main():
+    NumList = []
+    num = 1
+    for num in range(100000):
+        if NumberTests.isPrime(num) == True:
+            NumberTests.addNum(NumList, num)
+        num = num + 1
+    print(NumList[10001])
+main()
